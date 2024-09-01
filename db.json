@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "6e52",
+      "title": "Dayse Jones & The Six",
+      "author": "Taylor Jenkins Reid",
+      "publishedAt": "05/03/2019",
+      "genre": "Ficção",
+      "pageNumber": "360"
+    },
+    {
+      "id": "7dfb",
+      "title": "Tudo é Rio",
+      "author": "Carla Madeira",
+      "publishedAt": "2014",
+      "genre": "Ficção",
+      "pageNumber": "209"
+    },
+    {
+      "id": "e5ba",
+      "title": "Assassinato no Expresso do Oriente",
+      "author": "Agatha Christie",
+      "publishedAt": "30/11/2017",
+      "genre": "Mistério",
+      "pageNumber": "459"
+    }
+  ]
+}
